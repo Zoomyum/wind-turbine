@@ -1,1 +1,11 @@
-
+Item,Quantity,Part,Specification
+1,1,PMDC Motor,12V 2000RPM with bracket
+2,1,Shaft Coupler,6mm to 12mm
+3,1,Charge Controller,12V 30A
+4,1,Blocking Diode,Schottky 10A
+5,1,Fuse,5A inline blade fuse
+6,1,Battery,12V 7Ah SLA
+7,1,PVC Pipe,90mm x 1m stormwater pipe
+8,1,Pine Post,100x100mm x 3.6m H4 treated
+9,3,Bearing,15x24x5mm
+10,1,PETG Filament,1.75mm
