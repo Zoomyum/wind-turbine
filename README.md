@@ -39,6 +39,8 @@ https://www.bunnings.com.au/100-x-100mm-3-6m-post-h4-treated-pine-sawn-cca_p0052
 ### Blades
 https://www.bunnings.com.au/holman-90mm-x-1m-stormwater-pipe_p4770093
 
+### Screw and washer set
+https://www.bunnings.com.au/stahl-383-piece-assorted-fasteners-handy-kit_p2430839
 ---
 
 ## 3D printed parts (tinkercad)
