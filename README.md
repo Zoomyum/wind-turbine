@@ -13,7 +13,7 @@ https://www.aliexpress.com/item/1005008677454237.html?spm=a2g0o.productlist.main
 ### PMDC motor (2000rpm, 12V, with bracket)
 https://www.aliexpress.com/item/4000389280913.html?spm=a2g0o.productlist.main.3.69746BpV6BpVu8
 
-### Bearings (15inner diameter x24 outer/total diameterx5mm height)
+### Bearings (15mm inner diameter x 24mm outer/total diameter x 5mm height)
 https://www.aliexpress.com/item/1005009747825955.html?spm=a2g0o.productlist.main.1.7566U1HGU1HGh3
 
 ---
