@@ -21,6 +21,9 @@ https://www.aliexpress.com/item/1005005609922977.html?spm=a2g0o.productlist.main
 
 ### Charging controller
 https://www.aliexpress.com/item/1005010731597499.html?spm=a2g0o.productlist.main.3.99d5383doqbWfB&algo
+
+### 12v 5ah lead acid battery
+https://www.aliexpress.com/item/1005009975315186.html?spm=a2g0o.productlist.main.1.259c2956MtoZil&algo
 ---
 
 ## Materials
