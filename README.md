@@ -16,6 +16,11 @@ https://www.aliexpress.com/item/4000389280913.html?spm=a2g0o.productlist.main.3.
 ### Bearings (15mm inner diameter x 24mm outer/total diameter x 5mm height)
 https://www.aliexpress.com/item/1005009747825955.html?spm=a2g0o.productlist.main.1.7566U1HGU1HGh3
 
+### Diode Sk1010
+https://www.aliexpress.com/item/1005005609922977.html?spm=a2g0o.productlist.main.2.5d36bTrAbTrAmZ&algo
+
+### Charging controller
+https://www.aliexpress.com/item/1005010731597499.html?spm=a2g0o.productlist.main.3.99d5383doqbWfB&algo
 ---
 
 ## Materials
