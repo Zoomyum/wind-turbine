@@ -24,6 +24,9 @@ https://www.aliexpress.com/item/1005010731597499.html?spm=a2g0o.productlist.main
 
 ### 12v 5ah lead acid battery
 https://www.aliexpress.com/item/1005009975315186.html?spm=a2g0o.productlist.main.1.259c2956MtoZil&algo
+### 10Ah fuse
+https://www.aliexpress.com/item/1005008060565379.html
+
 ---
 
 ## Materials
