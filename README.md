@@ -1,7 +1,9 @@
 # Wind Turbine Project
-
+Wind turbine explaigned in here:
 Miro board:
 https://miro.com/app/board/uXjVHACUlGk=/?share_link_id=725397130524
+
+It is a wind turbine in basic terms, it will be made from the parts listed, these are also in the bom.csv
 
 ---
 
