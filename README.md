@@ -1,5 +1,5 @@
 # Wind Turbine Project
-Wind turbine explaigned in here:
+Wind turbine explained in here:
 Miro board:
 https://miro.com/app/board/uXjVHACUlGk=/?share_link_id=725397130524
 
