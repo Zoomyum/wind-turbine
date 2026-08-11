@@ -3,7 +3,7 @@ Wind turbine explained in here:
 Miro board:
 https://miro.com/app/board/uXjVHACUlGk=/?share_link_id=725397130524
 
-It is a wind turbine in basic terms, it will be made from the parts listed, these are also in the bom.csv
+This project is a small DIY wind turbine designed to generate and store electricity using wind. The turbine uses a 1 metre diameter rotor with three 50 cm blades made from a 90 mm PVC stormwater pipe. The three blades are spaced 120° apart and are attached to a 20 cm × 20 cm 3D printed PETG hub. The hub connects to a 12V 2000RPM, 25W PMDC motor using a 6 mm to 12 mm shaft coupler. The PMDC motor is used as a generator, so when the wind spins the blades it turns the motor and produces electricity. The generated electricity goes through a Schottky diode and into the charge controller, which then charges a 12V 5Ah lead-acid battery. A fuse is placed on the positive battery wire for protection, and the charge controller has USB outputs that can be used to power small devices. The turbine is mounted on a 100 × 100 mm × 3.6 m H4 treated pine post, with bearings used in the rotating assembly. The electronics will be kept inside a plastic enclosure protected from rain and direct sunlight, with silicone used around suitable openings to help keep water out. The motor will also be protected from the weather while allowing the shaft to stick out and connect to the rotor. All 3D printed parts are made using PETG. The project is intended to demonstrate how wind energy can be converted into electrical energy, stored in a battery and used to power small devices.
 
 ---
 
