@@ -2,7 +2,7 @@
 Wind turbine explained in here:
 Miro board:
 https://miro.com/app/board/uXjVHACUlGk=/?share_link_id=725397130524
-<img width="622" height="458" alt="image" src="https://github.com/user-attachments/assets/4fcf6640-9502-4399-9004-29303a414734" />
+<img width="1083" height="726" alt="image" src="https://github.com/user-attachments/assets/9f53fdd8-26dd-42fa-bc7d-798b1c662620" />
 <img width="581" height="578" alt="image" src="https://github.com/user-attachments/assets/951426e2-df73-436e-b1d5-7db56e2f7c12" />
 
 This project is a small DIY wind turbine designed to generate and store electricity using wind.
